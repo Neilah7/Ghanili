@@ -7,7 +7,7 @@ Write with your voice
 Ghani li is an app that provides a way for (Sara) and people like Sara who want(s) to follow their passion by offering them a localised list for their song lyrics  and support voiceover text size and voice control
 
 # For:
-@Neilha7, @Rmalshagri
+@Neilha7, - [@rmalshagri](https://github.com/rmalshagri)
 
 
 
