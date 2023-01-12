@@ -1,8 +1,7 @@
 # Ghanili
 
-Write with your voice
-
-![iconghanili](https://user-images.githubusercontent.com/107400570/212084007-f0954641-51ed-4b1c-bb23-7c465c56d9c2.png)
+Write with your voice 
+![bettergh](https://user-images.githubusercontent.com/107400570/212088692-c123ff6c-22c0-4b3d-8e02-ee6e5a789ffe.png)
 
 
 Ghani li is an app that provides a way for (Sara) and people like Sara who want(s) to follow their passion by offering them a localised list for their song lyrics  and support voiceover text size and voice control
@@ -49,6 +48,7 @@ well I have a Fun Fact for A person with total blindness won't be able to see an
 https://user-images.githubusercontent.com/107400570/212081893-24cccce3-5faf-404b-bab3-47a820e3fea6.mov
 
 # What's Next?
-1- We would include core data 
-2- We want to make it support more accessibility 
+
+1- We would include core data <br />
+2- We want to make it support more accessibility <br /> 
 3- We also might consider add more features and upload it to AppStore 
