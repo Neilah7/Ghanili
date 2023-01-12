@@ -37,7 +37,7 @@ well I have a Fun Fact for A person with total blindness won't be able to see an
 But a person with low vision may be able to see not only light, but colors and shapes too. <br />
 That's why we designed an easy to use interactive interfaces, with colors even the blind can see.
 
-## evidence:
+## Evidence:
 ![Group 3](https://user-images.githubusercontent.com/107400570/212095079-a911d0cf-8839-4596-8f26-9faf363931d1.png)
 
 
