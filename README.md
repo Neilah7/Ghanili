@@ -28,7 +28,7 @@ legally blind musicians hope to to continue their music career but apps for blin
 
 
 # How does it works
-We used Xcode and sketch to make an app that supports localisation in three languages, we made sure that our app supports built in accessibility by apple to make it feel like home
+We used Xcode and sketch to make an app that supports localisation in three languages(arabic, english, french), we made sure that our app supports built in accessibility by apple to make it feel like home
 
 
 ## Design 
@@ -38,7 +38,7 @@ But a person with low vision may be able to see not only light, but colors and s
 That's why we designed an easy to use interactive interfaces, with colors even the blind can see.
 
 ## evidence:
-![ghanili mockup](https://user-images.githubusercontent.com/107400570/212085780-f094de5a-b0e8-45ad-b335-726dce39c4f0.png)
+![Group 3](https://user-images.githubusercontent.com/107400570/212095079-a911d0cf-8839-4596-8f26-9faf363931d1.png)
 
 
 # Challenge summary 
