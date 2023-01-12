@@ -32,8 +32,10 @@ We used Xcode and sketch to make an app that supports localisation in three lang
 
 
 ## Design 
-blind people can't see right so we bother with good design?
-well I have a Fun Fact for A person with total blindness won't be able to see anything. But a person with low vision may be able to see not only light, but colors and shapes too. That's why we designed an easy to use interactive interfaces, with colors even the blind can see.
+blind people can't see right so we bother with good design? <br />
+well I have a Fun Fact for A person with total blindness won't be able to see anything. <br />
+But a person with low vision may be able to see not only light, but colors and shapes too. <br />
+That's why we designed an easy to use interactive interfaces, with colors even the blind can see.
 
 ## evidence:
 ![ghanili mockup](https://user-images.githubusercontent.com/107400570/212085780-f094de5a-b0e8-45ad-b335-726dce39c4f0.png)
