@@ -4,7 +4,7 @@ Write with your voice
 ![bettergh](https://user-images.githubusercontent.com/107400570/212088692-c123ff6c-22c0-4b3d-8e02-ee6e5a789ffe.png)
 
 
-Ghani li is an app that provides a way for (Sara) and people like Sara who want(s) to follow their passion by offering them a localised list for their song lyrics  and support voiceover text size and voice control
+Ghani li is an app that provides a way for blind and legally blind people who want(s) to follow their passion by offering them a localised list for their song lyrics  and support voiceover text size and voice control
 
 # For:
 [@Neilha7](https://github.com/Neilah7) - [@rmalshagri](https://github.com/rmalshagri)
