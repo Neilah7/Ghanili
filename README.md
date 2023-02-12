@@ -51,6 +51,6 @@ https://user-images.githubusercontent.com/107400570/212081893-24cccce3-5faf-404b
 
 # What's Next?
 
-1- We would include core data <br />
+1- We would include sirikit <br />
 2- We want to make it support more accessibility <br /> 
 3- We also might consider add more features and upload it to AppStore 
